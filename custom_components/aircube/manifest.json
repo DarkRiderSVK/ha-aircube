@@ -1,0 +1,20 @@
+{
+  "domain": "aircube",
+  "name": "Ubiquiti airCube",
+  "version": "1.0.0",
+  "documentation": "https://github.com/DarkRiderSVK/ha-aircube",
+  "issue_tracker": "https://github.com/DarkRiderSVK/ha-aircube/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@DarkRiderSVK"
+  ],
+  "config_flow": true,
+  "iot_class": "local_polling",
+  "integration_type": "device",
+  "platforms": [
+    "sensor",
+    "device_tracker",
+    "switch"
+  ]
+}

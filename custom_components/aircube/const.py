@@ -1,0 +1,3 @@
+DOMAIN = "aircube"
+
+DEFAULT_SCAN_INTERVAL = 10
